@@ -1,6 +1,6 @@
 # FIR_GLP1_filters_VHDL-MATLAB
 
-imlementing a FIR GLP1 filters on matlab using the LPF as a tool to make HP,SP.BP filters.
+implementing a FIR GLP1 filters on matlab using the LPF as a tool to make HP,SP.BP filters.
 after that converting the filters coefficiants to VHDL platform and tb the FIR component with input signal from 3 frequencies 
 so we can see how is the output affected from the filter.
 
