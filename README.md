@@ -83,9 +83,6 @@ This project involves the design and simulation of Finite Impulse Response (FIR)
 - The filter design principles were learned during a DSP laboratory course at my university.
 - Special thanks to [VHDLwhiz](https://www.vhdlwhiz.com) for providing insights into convolution function implementation and DSP slice usage in VHDL.
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername) - Project Creator
 
 ## License
 
