@@ -54,29 +54,34 @@ This project involves the design and simulation of Finite Impulse Response (FIR)
 
 ### Signal Before and After Filtering
 
-- **Before Filtering**: The signal with three different frequencies before applying the FIR filters.
+- **FREQ Domain Filtering**: The signal with three different frequencies before applying the FIR filters.
 
-  ![Signal Before Filtering](matlab/signal_before.png)
+![output signals freq domain](https://github.com/user-attachments/assets/18278219-7ac0-45e9-a045-234592be8ebd)
 
-- **After Filtering**: The signal after applying the FIR filters, showing the effect of the filters.
 
-  ![Signal After Filtering](matlab/signal_after.png)
+- **TIME Domain Filtering**: The signal after applying the FIR filters, showing the effect of the filters.
+ 
+![output signals time domain ](https://github.com/user-attachments/assets/3410267e-a87f-404a-8585-3ef03faa0c51)
+
 
 ### Filter Response
 
 - **Filter in Time Domain**: The time domain representation of the FIR GLP1 filters.
 
-  ![Filter Response in Time Domain](matlab/filter_response_time.png)
+![filters time domain](https://github.com/user-attachments/assets/4e917938-34fb-4cc3-b366-d293e78f5937)
+
 
 - **Filter in Frequency Domain**: The frequency domain representation of the FIR GLP1 filters.
 
-  ![Filter Response in Frequency Domain](matlab/filter_response_freq.png)
+![filters freq domain  db](https://github.com/user-attachments/assets/9b057016-0f7c-470c-8bc7-6446e170deaf)
+
 
 ### Vivado Simulation
 
 - **Vivado Simulation Output**: The results of the VHDL simulation in Vivado, demonstrating the filter's performance.
 
-  ![Vivado Simulation](testbench/vivado_simulation.png)
+![vivado_FIR_sim](https://github.com/user-attachments/assets/2e037690-8b9b-4d28-b935-cefb89f7aa70)
+
 
 ## Acknowledgments
 
